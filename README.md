@@ -2,12 +2,6 @@
 
 I am an Engineering student specializing in Artificial Intelligence and Data Science, passionate about building practical, meaningful, and learning-oriented tech projects.
 
-## About Me
-- 🎓 B.Tech (AI & Data Science) student
-- 💡 Interested in Machine Learning, Deep Learning, and Software Development  
-- 🧠 Enjoy building projects that blend strong theoretical understanding with practical, scalable software solutions  
-- 🌱 Currently improving skills in ML model development, optimization, and deployment fundamentals
-
 ## 🛠️ Skills
 - **Programming:** Python, C++, JavaScript  
 - **ML & DL:** NumPy, Pandas, Scikit-learn, TensorFlow  
