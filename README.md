@@ -3,20 +3,22 @@
 I am an Engineering student specializing in Artificial Intelligence and Data Science, passionate about building practical, meaningful, and learning-oriented tech projects.
 
 ## About Me
-
 - 🎓 B.Tech (AI & Data Science) student
 - 💡 Interested in Machine Learning, Deep Learning, and Software Development  
 - 🧠 Enjoy building projects that blend strong theoretical understanding with practical, scalable software solutions  
 - 🌱 Currently improving skills in ML model development, optimization, and deployment fundamentals
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
+- **Programming:** Python, C++, JavaScript  
+- **ML & DL:** NumPy, Pandas, Scikit-learn, TensorFlow  
+- **Web & APIs:** HTML, CSS, React, Express.js  
+- **Databases:** SQL, MySQL  
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab  
 
-- Programming: Python, C++, JavaScript
-- ML & DL: NumPy, Pandas, Scikit-learn, TensorFlow
-- Computer Vision: OpenCV, CNNs
-- Web Development: HTML, CSS, JavaScript, React, Express.js (REST APIs)  
-- Databases & DBMS: SQL, MySQL
-- Tools: Git, GitHub, Jupyter Notebook, Google Colab
+## 💼 Internship Experience
+**Software Developer Intern – HashedBit Innovations**  
+- Gained hands-on experience with React.js, Express.js, SQL, and REST API development  
+- Assisted in frontend and backend tasks, including component updates and bug fixes, under project guidance  
 
 ## 🤝 Connect With Me
 I’m always open to learning, collaboration, and feedback.
