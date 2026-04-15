@@ -1,34 +1,55 @@
-# Shefali Chouhan
+<h1 align="center">Hi 👋, I'm Shefali Chouhan</h1>
+<h3 align="center">AI & Data Science Student | Full Stack Developer | ML Enthusiast</h3>
 
-I am an Engineering student specializing in Artificial Intelligence and Data Science, passionate about building practical, meaningful, and learning-oriented tech projects.
+---
 
-## 🛠️ Skills
-- **Programming:** Python, C++, JavaScript  
-- **ML & DL:** NumPy, Pandas, Scikit-learn, TensorFlow  
-- **Web & APIs:** HTML, CSS, React, Express.js  
-- **Databases:** SQL, MySQL  
-- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab  
+## 🚀 About Me
+I am an Artificial Intelligence and Data Science student focused on building practical, real-world applications using full-stack development and machine learning.
 
-## 💼 Internship Experience
-**Software Developer Intern – HashedBit Innovations**  
-- Gained hands-on experience with React.js, Express.js, SQL, and REST API development  
-- Assisted in frontend and backend tasks, including component updates and bug fixes, under project guidance  
+- 💻 Skilled in MERN Stack, FastAPI, and modern web technologies  
+- 🤖 Interested in Machine Learning, NLP, and backend systems  
+- ⚙️ Passionate about building scalable and efficient applications  
+- 🎯 Actively seeking Software Development & ML internship opportunities  
 
-## 🤝 Connect With Me
-I’m always open to learning, collaboration, and feedback.
-Feel free to explore my work and reach out if you’d like to connect or collaborate!
+---
 
-<!--
-**Me-shefali/Me-shefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**💻 Programming Languages**  
+Python | C++ | JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌐 Web Development**  
+React.js | Node.js | Express.js | FastAPI | HTML | CSS  
+
+**🗄️ Databases**  
+SQL | PostgreSQL | SQLite  
+
+**🤖 AI/ML**  
+Machine Learning | NLP | TensorFlow | NumPy | Pandas  
+
+**⚙️ Tools & Technologies**  
+Git | GitHub | Docker | VS Code | Jupyter Notebook  
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern — HashedBit Innovations**  
+- Built and optimized frontend components using React.js  
+- Developed backend APIs using Node.js and Express.js  
+- Debugged and improved application performance  
+- Collaborated with team to deliver scalable features  
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/shefali-chouhan  
+- 💻 GitHub: https://github.com/Me-shefali  
+- 📧 Email: shefalichouhan0610@gmail.com  
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! ✨
+</p>
