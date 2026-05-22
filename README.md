@@ -1,55 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shefali Chouhan</h1>
-<h3 align="center">AI & Data Science Student | Full Stack Developer | ML Enthusiast</h3>
+<div align="center">
+
+# Hi, I'm Shefali 👋
+
+**AI & Data Science Graduate · Full-Stack Developer · ML Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shefali-chouhan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shefalichouhan0610@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Me-shefali&color=2563eb&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 About Me
-I am an Artificial Intelligence and Data Science student focused on building practical, real-world applications using full-stack development and machine learning.
+## 👩‍💻 About Me
 
-- 💻 Skilled in MERN Stack, FastAPI, and modern web technologies  
-- 🤖 Interested in Machine Learning, NLP, and backend systems  
-- ⚙️ Passionate about building scalable and efficient applications  
-- 🎯 Actively seeking Software Development & ML internship opportunities  
+Recent **B.E. graduate in AI & Data Science** from MBM University, Jodhpur (CGPA: 8.22).
+I build full-stack AI-powered applications — from React frontends to FastAPI backends to ML pipelines.
+
+- 🔭 Currently working with **React, FastAPI, Python** and GenAI APIs (Gemini, Whisper)
+- 🤖 Interested in **NLP, deep learning, and LLM-powered products**
+- 💼 **Open to work** — Junior SDE / Full-Stack / AI Developer roles
+- 📍 Jodhpur, Rajasthan · Open to remote
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Programming Languages**  
-Python | C++ | JavaScript  
+**Languages** · `Python` `JavaScript` `C++` `C`
 
-**🌐 Web Development**  
-React.js | Node.js | Express.js | FastAPI | HTML | CSS  
+**Web & Backend** · `React.js` `Node.js` `Express.js` `FastAPI` `Tailwind CSS`
 
-**🗄️ Databases**  
-SQL | PostgreSQL | SQLite  
+**Databases** · `PostgreSQL` `SQL`
 
-**🤖 AI/ML**  
-Machine Learning | NLP | TensorFlow | NumPy | Pandas  
+**AI / ML** · `TensorFlow` `Keras` `NLP` `CNN · RNN · LSTM` `NumPy` `OpenCV`
 
-**⚙️ Tools & Technologies**  
-Git | GitHub | Docker | VS Code | Jupyter Notebook  
+**Tools** · `Docker` `Git` `GitHub` `REST APIs` `Jupyter Notebook`
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-**Software Developer Intern — HashedBit Innovations**  
-- Built and optimized frontend components using React.js  
-- Developed backend APIs using Node.js and Express.js  
-- Debugged and improved application performance  
-- Collaborated with team to deliver scalable features  
+<div align="center">
 
----
+![Shefali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Me-shefali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-## 🌐 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-shefali&layout=compact&theme=tokyonight&hide_border=true)
 
-- 🔗 LinkedIn: https://linkedin.com/in/shefali-chouhan  
-- 💻 GitHub: https://github.com/Me-shefali  
-- 📧 Email: shefalichouhan0610@gmail.com  
+</div>
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile! ✨
-</p>
+<div align="center">
+
+*Check out my projects below ⬇️ or let's connect!*
+
+</div>
