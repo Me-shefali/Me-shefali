@@ -38,19 +38,6 @@ I build full-stack AI-powered applications — from React frontends to FastAPI b
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shefali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Me-shefali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-shefali&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 *Check out my projects below ⬇️ or let's connect!*
 
